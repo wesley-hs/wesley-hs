@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá, eu sou o Wesley HS 👋
 
-<!--
-**wesley-hs/wesley-hs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por **programação em C#**, **desenvolvimento web** e **inteligência artificial**. Estou sempre em busca de aprender coisas novas e construir projetos práticos que façam a diferença.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎓 Estudante em Análise e Desenvolvimento de Sistemas  
+- 💻 Programo principalmente em C#, JavaScript e Python  
+- 🤖 Interessado em IA, automação e desenvolvimento de software  
+- 🌱 Atualmente estudando desenvolvimento de APIs e front-end moderno  
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Email](mailto:seu-email@exemplo.com)
+
+---
+
+## 🔧 Tecnologias e ferramentas
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📂 Projetos em destaque
+
+- [Validação de Cartões de Crédito](https://github.com/wesley-hs/Validacao-cartoes-de-credito) - Projeto em C# para identificar bandeiras de cartões.
+
+
+---
+
+## 📈 Minhas Estatísticas no GitHub
+
+![Wesley HS GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley-hs&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Vamos nos conectar!
+
+- [LinkedIn](https://www.linkedin.com/in/wesley-tech)  
+- [Email](swesley.dev@gmail.com)  
+
+---
+
+*“Aprender nunca é demais, e o código é a linguagem do futuro.”*

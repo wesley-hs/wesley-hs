@@ -1,6 +1,7 @@
-# Olá, eu sou o Wesley HS 👋
+# Olá, eu sou o Wesley Henrique Santos 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por **programação em C#**, **desenvolvimento web** e **inteligência artificial**. Estou sempre em busca de aprender coisas novas e construir projetos práticos que façam a diferença.
+Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por programação, especialmente em C#.  
+Tenho experiência em desenvolvimento de sistemas, criação de algoritmos para validação e automação, além de interesse em aprender sempre mais sobre tecnologias modernas.icos que façam a diferença.
 
 ---
 

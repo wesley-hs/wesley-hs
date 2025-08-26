@@ -1,14 +1,16 @@
-# Olá, eu sou o Wesley Henrique Santos 👋
+## Olá, eu sou o Wesley 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por programação, especialmente em C#.  
-Tenho experiência em desenvolvimento de sistemas, criação de algoritmos para validação e automação, além de interesse em aprender sempre mais sobre tecnologias modernas.icos que façam a diferença.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e tenho interesse especial em **desenvolvimento front-end**.  
+Atualmente, concentro meus estudos em **HTML, CSS e JavaScript**, criando interfaces simples, funcionais e bem estruturadas.  
 
----
+Já tive contato com **C#**, mas utilizo com menos frequência. Meu foco principal é evoluir no **front-end** e construir projetos que unam boa experiência do usuário com código limpo e organizado.  
 
-## 🚀 Sobre mim
+🚀 Sempre buscando aprender novas tecnologias e melhorar minhas práticas no desenvolvimento.  
 
-- 🎓 Estudante em Análise e Desenvolvimento de Sistemas  
-- 💻 Programo principalmente em C#, JavaScript e Python  
+### 🔧 Tecnologias e ferramentas
+- Front-end: **HTML, CSS, JavaScript**
+- Experiência inicial: **C#**
+- Controle de versão: **Git & GitHub**
 - 🤖 Interessado em IA, automação e desenvolvimento de software  
 - 🌱 Atualmente estudando desenvolvimento de APIs e front-end moderno  
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Email](mailto:seu-email@exemplo.com)

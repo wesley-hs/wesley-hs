@@ -32,8 +32,9 @@ Aplicativo mobile para organização estudantil com gerenciamento de tarefas, di
 
 #### 💳 Validação de Cartões de Crédito
 Sistema para identificação de bandeiras de cartões de crédito.
-- **Tecnologias:** C#, .NET
-- **🔗 [Repositório](https://github.com/wesley-hs/Validacao-cartoes-de-credito)**
+- **Tecnologias:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **🔗 [Repositório]([https://github.com/wesley-hs/Validacao-cartoes-de-credito](https://github.com/wesley-hs/Validacao-cartao-credito)**
 
 ### 📚 Estou Aprendendo
 - ⚛️ React Native & Expo

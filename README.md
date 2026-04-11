@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/wesley-tech"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:swesley.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/wesley-hs/wesley-hs/raw/main/Curriculo_Wesley_Henrique.pdf.pdf"><img src="https://img.shields.io/badge/Download_CV-PDF-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
+  <a href="https://github.com/wesley-hs/wesley-hs/raw/main/Curriculo_Wesley_Henrique.pdf"><img src="https://img.shields.io/badge/Download_CV-PDF-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
 </div>
 
 ### 🚀 Sobre Mim

@@ -1,90 +1,95 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Wesley%20Henrique&fontSize=50&animation=fadeIn" width="100%" />
 
-  <p>
-    <a href="https://www.linkedin.com/in/wesley-tech">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:swesley.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/wesley-hs/wesley-hs/raw/main/Curriculo_Wesley_Henrique.pdf">
-      <img src="https://img.shields.io/badge/CV_Full_Stack-PDF-2ea44f?style=flat&logo=adobe-acrobat-reader&logoColor=white" />
-    </a>
-  </p>
+# Wesley Henrique
+
+**Desenvolvedor Fullstack · ADS @ PUC Minas**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-tech)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swesley.dev@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-2ea44f?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/wesley-hs/wesley-hs/raw/main/Curriculo_Wesley_Henrique.pdf)
+
 </div>
 
 ---
 
-# 🚀 Sobre Mim
+## Sobre
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas na PUC Minas**  
-💻 Desenvolvedor com foco em **Back-end, APIs RESTful e Microsserviços**  
-🔐 Forte base em **segurança de aplicações com Spring Security e JWT**  
-⚡ Apaixonado por transformar problemas complexos em soluções escaláveis e eficientes  
+Desenvolvedor com foco em **back-end e arquitetura distribuída**, construindo desde a modelagem do banco até a API consumida pelo front. Tenho interesse especial em sistemas que precisam escalar — autenticação segura, microsserviços bem desenhados e integrações que não quebram em produção.
 
-Atualmente, venho desenvolvendo projetos com foco em **Java, Spring Boot, arquitetura distribuída e integração com bancos relacionais e NoSQL**.
+Atualmente cursando ADS na PUC Minas e buscando minha primeira oportunidade como desenvolvedor júnior ou estagiário.
 
 ---
 
-# 🛠️ Stack Tecnológica
+## Stack
 
-## 🔙 Back-end & Security
-`Java 17` `Spring Boot` `Spring Security` `JWT` `OAuth2`  
-`JPA/Hibernate` `PostgreSQL` `MongoDB`
+**Back-end**
+`Java 17` `Spring Boot` `Spring Security` `JWT` `OAuth2` `JPA/Hibernate`
 
-## 🎨 Front-end & Mobile
-`JavaScript (ES6+)` `HTML5` `CSS3` `React Native`
+**Banco de dados**
+`PostgreSQL` `MongoDB`
 
-## ⚙️ DevOps & Ferramentas
+**Front-end**
+`JavaScript ES6+` `React Native` `HTML5` `CSS3`
+
+**DevOps & Ferramentas**
 `Docker` `Git` `Gitflow` `Gradle` `Postman`
 
----
-
-# 📂 Projetos em Destaque
-
-## 🏋️ FitClub API
-🔗 **Repositório:** https://github.com/wesley-hs/fitclub-api
-
-- Arquitetura baseada em **microsserviços**
-- API REST para gestão de usuários e treinos
-- Segurança com **Spring Security + JWT**
-- Persistência com **MongoDB**
-- Containerização com **Docker**
-- Foco em escalabilidade e alta disponibilidade
-
----
-
-## 🎓 Student Helper
-Aplicativo mobile voltado para **organização acadêmica**, com:
-
-- agendamento
-- notificações
-- foco em UX
-- integração com back-end
-
----
-
-## 🏠 Click Imóveis
-API back-end para portal imobiliário com foco em:
-
-- busca e filtragem
-- performance
-- integridade transacional
-- PostgreSQL
-
----
-
-# 📈 Estatísticas GitHub
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,git,github,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,git,js,html,css,react" />
 </div>
 
+---
 
+## Projetos
+
+### [FitClub API](https://github.com/wesley-hs/fitclub-api)
+> Plataforma de gestão para academias — back-end em microsserviços
+
+Sistema que resolve um problema real: academias que dependem de planilhas e controle manual de alunos, pagamentos e treinos. A FitClub API substitui esse processo com uma API REST segura e escalável.
+
+**Destaques técnicos:**
+- Arquitetura em microsserviços com comunicação via REST
+- Autenticação stateless com **Spring Security + JWT**
+- Persistência em **MongoDB** para dados de treino e PostgreSQL para dados financeiros
+- Containerização completa com **Docker Compose**
+- Separação de responsabilidades e deploy independente por serviço
+
+`Java` `Spring Boot` `JWT` `MongoDB` `Docker`
+
+---
+
+### Student Helper *(em desenvolvimento)*
+> App mobile para organização acadêmica
+
+Aplicativo voltado para estudantes universitários com agendamento de tarefas, notificações de prazos e integração com back-end próprio.
+
+`React Native` `Node.js` `PostgreSQL`
+
+---
+
+### Click Imóveis *(em desenvolvimento)*
+> API back-end para portal imobiliário
+
+API REST para busca e filtragem de imóveis com foco em performance de consultas e integridade transacional.
+
+`Java` `Spring Boot` `PostgreSQL`
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=wesley-hs&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 <div align="center">
-  <sub><b>"Código limpo é sobre facilitar o trabalho de quem mantém amanhã."</b></sub>
+
+**Aberto para estágio e oportunidades júnior**
+
+swesley.dev@gmail.com
+
 </div>

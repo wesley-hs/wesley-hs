@@ -1,13 +1,12 @@
-
 <div align="center">
 
 # Wesley Henrique
 
-**Desenvolvedor Fullstack · ADS @ PUC Minas**
+**Suporte Técnico · Service Desk · ADS @ PUC Minas**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swesley.dev@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-PDF-2ea44f?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/29272664/Wesley_Henrique_CV_Suporte_Tecnico.docx)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-2ea44f?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/wesley-hs/wesley-hs/raw/main/Curriculo_Wesley_Henrique_Suporte.pdf)
 
 </div>
 
@@ -15,25 +14,19 @@
 
 ## Sobre
 
-Desenvolvedor com foco em **back-end e arquitetura distribuída**, construindo desde a modelagem do banco até a API consumida pelo front. Tenho interesse especial em sistemas que precisam escalar — autenticação segura, microsserviços bem desenhados e integrações que não quebram em produção.
+Atuo há mais de 6 anos prestando atendimento técnico direto ao cliente — diagnosticando problemas, explicando soluções com clareza e resolvendo demandas com organização e autonomia.
 
-Atualmente cursando ADS na PUC Minas e buscando minha primeira oportunidade como desenvolvedor júnior ou estagiário.
+Estou no último período de Análise e Desenvolvimento de Sistemas (PUC Minas), o que me deu base prática em lógica de programação, bancos de dados e desenvolvimento de software em equipe. Uso essa base técnica para entender problemas de tecnologia a fundo, não só na superfície — e é isso que busco aplicar em Suporte Técnico / Service Desk.
+
+Os projetos abaixo são entregas acadêmicas que me ajudaram a entender, na prática, como sistemas são construídos, integrados e colocados de pé.
 
 ---
 
-## Stack
+## Base técnica
 
-**Back-end**
-`Java 17` `Spring Boot` `Spring Security` `JWT` `OAuth2` `JPA/Hibernate`
-
-**Banco de dados**
-`PostgreSQL` `MongoDB`
-
-**Front-end**
-`JavaScript ES6+` `React Native` `HTML5` `CSS3`
-
-**DevOps & Ferramentas**
-`Docker` `Git` `Gitflow` `Gradle` `Postman`
+**Linguagens e frameworks:** `Java` `Spring Boot` `JavaScript` `React Native`
+**Banco de dados:** `PostgreSQL` `MongoDB`
+**Ferramentas:** `Git` `GitHub` `Docker` `Postman`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,git,js,html,css,react" />
@@ -41,55 +34,38 @@ Atualmente cursando ADS na PUC Minas e buscando minha primeira oportunidade como
 
 ---
 
-## Projetos
+## Projetos acadêmicos
 
 ### [FitClub API](https://github.com/wesley-hs/fitclub-api)
-> Plataforma de gestão para academias — back-end em microsserviços
+> Projeto em equipe (PUC Minas) — sistema de gestão para academias
 
-Sistema que resolve um problema real: academias que dependem de planilhas e controle manual de alunos, pagamentos e treinos. A FitClub API substitui esse processo com uma API REST segura e escalável.
-
-**Destaques técnicos:**
-- Arquitetura em microsserviços com comunicação via REST
-- Autenticação stateless com **Spring Security + JWT**
-- Persistência em **MongoDB** para dados de treino e PostgreSQL para dados financeiros
-- Containerização completa com **Docker Compose**
-- Separação de responsabilidades e deploy independente por serviço
+Trabalho desenvolvido em grupo para resolver um problema real de pequenas academias: controle manual de alunos, pagamentos e treinos. Atuei como Scrum Master do time e contribuí no desenvolvimento das telas mobile e na resolução de problemas de integração entre back-end e front-end durante o projeto (conflitos de versão, configuração de ambiente, formato de dados entre MongoDB e o app).
 
 `Java` `Spring Boot` `JWT` `MongoDB` `Docker`
 
 ---
 
-### Student Helper *(em desenvolvimento)*
-> App mobile para organização acadêmica
+### Student Helper
+> Projeto acadêmico — app de organização para estudantes
 
-Aplicativo voltado para estudantes universitários com agendamento de tarefas, notificações de prazos e integração com back-end próprio.
+Aplicativo para organização de tarefas e prazos universitários, com back-end próprio. Desenvolvido e funcional durante o semestre em que foi entregue.
 
 `React Native` `Node.js` `PostgreSQL`
 
 ---
 
-### Click Imóveis *(em desenvolvimento)*
-> API back-end para portal imobiliário
+### Click Imóveis
+> Projeto acadêmico — API para portal imobiliário
 
-API REST para busca e filtragem de imóveis com foco em performance de consultas e integridade transacional.
+API para busca e filtragem de imóveis, desenvolvida como exercício de modelagem de banco de dados e construção de endpoints REST. Funcional durante o semestre em que foi entregue.
 
 `Java` `Spring Boot` `PostgreSQL`
 
 ---
 
-## Estatísticas
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wesley-hs&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-**Aberto para estágio e oportunidades júnior**
+**Aberto a oportunidades em Suporte Técnico / Service Desk**
 
 swesley.dev@gmail.com
 

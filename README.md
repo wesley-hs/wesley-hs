@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Wesley Henrique
@@ -6,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swesley.dev@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-PDF-2ea44f?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/wesley-hs/wesley-hs/raw/main/Curriculo_Wesley_Henrique.pdf)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-2ea44f?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/29272664/Wesley_Henrique_CV_Suporte_Tecnico.docx)
 
 </div>
 

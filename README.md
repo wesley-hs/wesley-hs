@@ -34,8 +34,11 @@ Estou no último período de **Análise e Desenvolvimento de Sistemas na PUC Min
 ## 🧰 Ferramentas
 
 **Testes e qualidade:** `Postman` `Git` `GitHub`
+
 **Base de desenvolvimento:** `Java` `Spring Boot` `JavaScript` `React` `React Native`
+
 **Banco de dados:** `SQL` `PostgreSQL` `MongoDB`
+
 **Ambiente:** `Docker`
 
 <div align="center">

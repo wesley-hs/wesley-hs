@@ -1,8 +1,8 @@
 <div align="center">
 
-# Wesley Henrique
+# Wesley Henrique Souza
 
-**Suporte Técnico · Service Desk · ADS @ PUC Minas**
+**QA / Testes de Software em formação · ADS @ PUC Minas**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swesley.dev@gmail.com)
@@ -12,52 +12,73 @@
 
 ---
 
-## Sobre
+## 👋 Sobre mim
 
-Atuo há mais de 6 anos prestando atendimento técnico direto ao cliente — diagnosticando problemas, explicando soluções com clareza e resolvendo demandas com organização e autonomia.
+Estou construindo minha carreira em **Qualidade de Software (QA)**.
 
-Estou no último período de Análise e Desenvolvimento de Sistemas (PUC Minas), o que me deu base prática em lógica de programação, bancos de dados e desenvolvimento de software em equipe. Uso essa base técnica para entender problemas de tecnologia a fundo, não só na superfície — e é isso que busco aplicar em Suporte Técnico / Service Desk.
+Há mais de 6 anos trabalho com serviços técnicos (montagem de móveis e instalação de câmeras de segurança), onde nada é entregue ao cliente sem ser conferido e testado. Levo a mesma lógica para o software: entender como o sistema deveria funcionar, encontrar onde ele falha e documentar isso de forma clara para o time.
 
-Os projetos abaixo são entregas acadêmicas que me ajudaram a entender, na prática, como sistemas são construídos, integrados e colocados de pé.
+Estou no último período de **Análise e Desenvolvimento de Sistemas na PUC Minas** (conclusão em dez/2026), onde participei de projetos em equipe com Java, Spring Boot, React e bancos de dados. Essa base me ajuda a entender o que acontece por trás de cada bug.
 
 ---
 
-## Base técnica
+## 🔍 Foco atual em QA
 
-**Linguagens e frameworks:** `Java` `Spring Boot` `JavaScript` `React Native`
-**Banco de dados:** `PostgreSQL` `MongoDB`
-**Ferramentas:** `Git` `GitHub` `Docker` `Postman`
+- Fundamentos e técnicas de teste (partição de equivalência, valor limite, regressão)
+- Escrita de casos de teste e reporte de bugs
+- Testes de API com Postman
+- Próximo passo: automação web com Cypress
+
+---
+
+## 🧰 Ferramentas
+
+**Testes e qualidade:** `Postman` `Git` `GitHub`
+**Base de desenvolvimento:** `Java` `Spring Boot` `JavaScript` `React` `React Native`
+**Banco de dados:** `SQL` `PostgreSQL` `MongoDB`
+**Ambiente:** `Docker`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,git,js,html,css,react" />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,java,spring,js,react,postgres,mongodb,docker" />
 </div>
 
 ---
 
-## Projetos acadêmicos
+## 📂 Projetos
 
 ### [FitClub API](https://github.com/wesley-hs/fitclub-api)
-> Projeto em equipe (PUC Minas) — sistema de gestão para academias
+> Projeto em equipe (PUC Minas): sistema de gestão para academias
 
-Trabalho desenvolvido em grupo para resolver um problema real de pequenas academias: controle manual de alunos, pagamentos e treinos. Atuei como Scrum Master do time e contribuí no desenvolvimento das telas mobile e na resolução de problemas de integração entre back-end e front-end durante o projeto (conflitos de versão, configuração de ambiente, formato de dados entre MongoDB e o app).
+Sistema para substituir o controle manual de alunos, pagamentos e treinos em pequenas academias. Atuei como **Scrum Master**, organizando sprints e acompanhando entregas, e trabalhei na integração entre back-end e app mobile, investigando e corrigindo falhas de comunicação (conflitos de versão, configuração de ambiente e formato de dados entre MongoDB e o app).
 
 `Java` `Spring Boot` `JWT` `MongoDB` `Docker`
 
 ---
 
-### Student Helper
-> Projeto acadêmico — app de organização para estudantes
+<!-- Quando o repositório estiver no GitHub, troque o título abaixo por: ### [Site de Doações – Lar São Francisco de Assis](LINK_DO_REPOSITORIO) -->
+### Site de Doações – Lar São Francisco de Assis
+> Projeto voluntário para uma instituição real, em desenvolvimento
 
-Aplicativo para organização de tarefas e prazos universitários, com back-end próprio. Desenvolvido e funcional durante o semestre em que foi entregue.
+Site para facilitar doações ao Lar São Francisco de Assis, asilo em Turvolândia (MG).
+
+`React` `JavaScript`
+
+---
+
+### [Student Helper](https://github.com/wesley-hs/student-helper-site)
+> Projeto acadêmico: app de organização para estudantes
+
+Aplicativo para organizar tarefas e prazos da faculdade, com back-end próprio.
 
 `React Native` `Node.js` `PostgreSQL`
 
 ---
 
+<!-- Troque o título abaixo por: ### [Click Imóveis](LINK_DO_REPOSITORIO) -->
 ### Click Imóveis
-> Projeto acadêmico — API para portal imobiliário
+> Projeto acadêmico: API para portal imobiliário
 
-API para busca e filtragem de imóveis, desenvolvida como exercício de modelagem de banco de dados e construção de endpoints REST. Funcional durante o semestre em que foi entregue.
+API REST para busca e filtragem de imóveis, com foco em modelagem de banco de dados e construção de endpoints.
 
 `Java` `Spring Boot` `PostgreSQL`
 
@@ -65,8 +86,7 @@ API para busca e filtragem de imóveis, desenvolvida como exercício de modelage
 
 <div align="center">
 
-**Aberto a oportunidades em Suporte Técnico / Service Desk**
-
-swesley.dev@gmail.com
+**Aberto a oportunidades como QA / Analista de Testes**
+Remoto ou Sul de Minas · swesley.dev@gmail.com
 
 </div>

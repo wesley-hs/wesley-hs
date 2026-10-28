@@ -34,7 +34,7 @@ Estou no último período de **Análise e Desenvolvimento de Sistemas na PUC Min
 
 ## 🧰 Ferramentas
 
-**Testes e qualidade:** `JUnit 5` `Mockito` `Postman` `Swagger / OpenAPI` `Git` `GitHub Actions`
+**Testes e qualidade:** `JUnit 5` `Mockito` `Postman` `Newman` `Swagger / OpenAPI` `Git` `GitHub Actions`
 
 **Base de desenvolvimento:** `Java` `Spring Boot` `C#` `ASP.NET` `JavaScript` `React` `React Native`
 
@@ -49,6 +49,15 @@ Estou no último período de **Análise e Desenvolvimento de Sistemas na PUC Min
 ---
 
 ## 📂 Projetos
+
+### [Testes de API: ServeRest](https://github.com/wesley-hs/qa-api-serverest)
+> Projeto de QA: do plano de teste ao bug report
+
+Testes manuais e automatizados de uma API REST pública (usuários, login e autorização). Plano de teste, **30 casos de teste** com partição de equivalência e valor limite, automação em Postman rodando com Newman no GitHub Actions e **6 bugs reais reportados** como Issues, incluindo 3 de severidade alta (senha exposta, senha no token JWT e contas duplicadas por diferença de maiúsculas no e-mail).
+
+`Postman` `Newman` `GitHub Actions` `GitHub Issues`
+
+---
 
 ### [FitClub API](https://github.com/wesley-hs/fitclub-api)
 > Projeto em equipe (PUC Minas): sistema de gestão para academias
